@@ -256,7 +256,8 @@
     "the-altruists",
     "sam-bankman-fried",
     "caroline-ellison",
-    "tara-mac-aulay"
+    "tara-mac-aulay",
+    "will-macaskill"
    ],
    "sources": [],
    "summary": "一套源自牛津哲学圈的慈善与职业伦理：做好事也要算账，用证据和理性找出一块钱能换回最多好处的用法。SBF 与 Ellison 都是它的信徒，FTX 剧名《利他主义者》即出于此。",
@@ -489,6 +490,37 @@
    "sources": [],
    "summary": "2019 年加入，后任 FTX 巴哈马子公司 FTX Digital Markets 联席 CEO，管政治捐款与对外场面。他没有合作指证，判 7.5 年，是高管里坐牢最重的一档（SBF 除外）。",
    "title": "Ryan Salame",
+   "type": "人物"
+  },
+  {
+   "aliases": [
+    "William MacAskill",
+    "威尔·麦卡斯基尔"
+   ],
+   "facts": [
+    [
+     "身份",
+     "牛津大学哲学教授，EA 运动共同发起人"
+    ],
+    [
+     "著作",
+     "《Doing Good Better》（2015）、《What We Owe the Future》（2022）"
+    ],
+    [
+     "与 FTX 的关系",
+     "SBF 是他最出名的「赚钱为了捐钱」追随者；FTX 崩盘后他公开谴责 SBF，并承认自己早年曾对其风险做法有过担忧但没能阻止"
+    ]
+   ],
+   "id": "will-macaskill",
+   "photo": "https://img.yatslist.com/cryptostory/people/will-macaskill.jpg",
+   "related": [
+    "effective-altruism",
+    "tara-mac-aulay",
+    "sam-bankman-fried"
+   ],
+   "sources": [],
+   "summary": "苏格兰哲学家，牛津大学教授，有效利他主义（EA）的共同发起人：2009 年与 Toby Ord 创办 Giving What We Can，后共同创办 CEA 与 80,000 Hours。他是 EA 的思想领袖，也是把 SBF 带进这个圈子的关键人物之一。",
+   "title": "Will MacAskill",
    "type": "人物"
   }
  ],
