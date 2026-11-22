@@ -99,7 +99,8 @@
     "alameda-research",
     "the-altruists",
     "sam-bankman-fried",
-    "gary-wang"
+    "gary-wang",
+    "modulo-capital"
    ],
    "sources": [
     [
@@ -147,7 +148,8 @@
     "sam-bankman-fried",
     "tara-mac-aulay",
     "caroline-ellison",
-    "sam-trabucco"
+    "sam-trabucco",
+    "modulo-capital"
    ],
    "sources": [
     [
@@ -161,6 +163,60 @@
    ],
    "summary": "2017 年 11 月 SBF 与 Tara Mac Aulay 在伯克利创立的量化交易公司，靠美日比特币价差套利起家，后来成为挪用 FTX 客户资金的通道，是整个案子的发动机。",
    "title": "Alameda Research",
+   "type": "机构"
+  },
+  {
+   "aliases": [
+    "Modulo",
+    "模数资本"
+   ],
+   "body": [
+    "Modulo 是理解 FTX 钱流向的一块拼图：一家刚成立几个月、毫无名气的小基金，能拿到 4.75 亿美元，靠的不是业绩，而是 Jane Street 同门 + 巴哈马同社区的人脉圈。传闻称 SBF 与 Lily Zhang 有过私人关系，被认为是这笔投资的动机之一，此说未经证实。"
+   ],
+   "facts": [
+    [
+     "创立",
+     "2022 年初，巴哈马，与 FTX 核心圈同住 Albany 社区"
+    ],
+    [
+     "创始人",
+     "Duncan Rheingans-Yoo 与 Xiaoyun「Lily」Zhang，两人都是前 Jane Street 交易员（与 SBF、Ellison 同一出身）"
+    ],
+    [
+     "业务",
+     "多策略量化对冲基金，团队很小，成立时几乎没名气"
+    ],
+    [
+     "与 FTX 的关系",
+     "2022 年 Alameda 按 SBF 指示入股：2500 万美元买 20% 股份 + 4.5 亿美元投入其基金，合计 4.75 亿，是 FTX 对外最大单笔投资之一；事后查明资金部分源自 FTX 客户存款"
+    ],
+    [
+     "结局",
+     "2023 年 3 月与 FTX 破产方和解：退回 4.04 亿美元现金 + 放弃在 FTX 的 5600 万美元资产索赔，合计约 4.6 亿（约 97%）；FTX/Alameda 同时放弃对 Modulo 的股权与追责。创始人未被起诉"
+    ],
+    [
+     "在剧中",
+     "Lily Zhang 由 Marianna Phung 饰，Duncan 由 Hudson Williams 饰；剧里暗示他们想拿证据当筹码保住钱，People 指出现实中无此证据"
+    ]
+   ],
+   "id": "modulo-capital",
+   "related": [
+    "ftx",
+    "alameda-research",
+    "the-altruists"
+   ],
+   "sources": [
+    [
+     "People：剧中略去的 9 个细节（Modulo 退钱）",
+     "https://people.com/the-altruists-details-left-out-12261052"
+    ],
+    [
+     "Cointelegraph：FTX 追讨 Modulo 4.6 亿美元",
+     "https://cointelegraph.com/news/ftx-seeks-to-claw-back-460m-from-bankman-fried-backed-vc-firm"
+    ]
+   ],
+   "summary": "2022 年初在巴哈马成立的小型多策略对冲基金，两位创始人都是 Jane Street 出身。因收了 Alameda 4.75 亿美元而卷入 FTX 案，破产后几乎全额退回，是 FTX 资金外流里追回比例最高的一笔。",
+   "title": "Modulo Capital",
    "type": "机构"
   },
   {
@@ -227,7 +283,7 @@
     ]
    ],
    "id": "sam-bankman-fried",
-   "photo": "https://img.yatslist.com/cryptostory/people/sbf.jpg",
+   "photo": "https://img.yatslist.com/cryptostory/people/sam-bankman-fried.jpg",
    "related": [
     "ftx",
     "alameda-research",
