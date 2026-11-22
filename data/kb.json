@@ -1,0 +1,490 @@
+{
+ "domain": "cryptostory.club",
+ "entries": [
+  {
+   "aliases": [
+    "奈飞 FTX 新片",
+    "The Altruists",
+    "利他主义者"
+   ],
+   "body": [
+    "这部剧表面讲的是币圈史上最大的诈骗案：一家估值一度 320 亿美元的交易所，账上被掏出约 80 亿美元的客户资金窟窿。底下讲的是另一件事：两个真心相信「赚最多的钱、捐出去救最多的人」的年轻人，怎么一步步说服彼此跨过每一条线。",
+    "剧集以 SBF 与 Ellison 的关系为轴：从 Jane Street 到 Alameda、FTX，从理想主义到挪用、欺诈与审判。看剧之前先读本库的 FTX、Alameda 与 EA 三条，剧里的人名和梗就全通了。"
+   ],
+   "facts": [
+    [
+     "平台",
+     "Netflix，2026-11-19 一次性放出全 8 集"
+    ],
+    [
+     "主创",
+     "Graham Moore（《模仿游戏》编剧）与 Jacqueline Hoyt 联合主创"
+    ],
+    [
+     "出品",
+     "奥巴马夫妇的 Higher Ground 参与执行制片"
+    ],
+    [
+     "主演",
+     "Anthony Boyle 饰 SBF，Julia Garner 饰 Caroline Ellison"
+    ],
+    [
+     "素材来源",
+     "灵感来自《纽约杂志》Kevin T. Dugan 与 Jen Wieczner 的报道"
+    ],
+    [
+     "口碑",
+     "开播时烂番茄 78%（23 条评论），获 Certified Fresh"
+    ]
+   ],
+   "id": "the-altruists",
+   "related": [
+    "ftx",
+    "alameda-research",
+    "effective-altruism",
+    "sam-bankman-fried",
+    "caroline-ellison"
+   ],
+   "sources": [
+    [
+     "Odaily：Netflix 发布 FTX 剧《The Altruists》",
+     "https://www.odaily.news/en/newsflash/536473"
+    ],
+    [
+     "Metacritic：The Altruists 条目",
+     "https://www.metacritic.com/tv/the-altruists/"
+    ],
+    [
+     "People：剧中人与真人对照",
+     "https://people.com/see-the-altruists-cast-side-by-side-with-real-people-12259252"
+    ]
+   ],
+   "summary": "Netflix 2026 年 11 月 19 日上线的 8 集限定剧，讲 FTX 与 SBF、Caroline Ellison 的崛起与崩盘，剧名取自两人的信仰：有效利他主义（EA）。",
+   "title": "《利他主义者》The Altruists",
+   "type": "作品"
+  },
+  {
+   "aliases": [
+    "FTX 交易所",
+    "Futures Exchange"
+   ],
+   "body": [
+    "FTX 的死因不是交易亏损本身，而是结构：它和 Alameda 是同一批人控制的姊妹公司，Alameda 在 FTX 上享有别人没有的特权（可以透支、免爆仓），客户存进 FTX 的钱被源源不断借给 Alameda 去下注、买楼、做政治捐款。挤兑一来，窟窿藏不住，三天倒闭。",
+    "这是理解此后整个行业「储备金证明、客户资产隔离」讨论的起点事件。"
+   ],
+   "facts": [
+    [
+     "创立",
+     "2019 年 5 月，Sam Bankman-Fried 与 Gary Wang"
+    ],
+    [
+     "定位",
+     "衍生品与杠杆产品交易所，先后落地香港、巴哈马"
+    ],
+    [
+     "峰值",
+     "2022 年初 C 轮后估值约 320 亿美元，一度全球第二大交易所"
+    ],
+    [
+     "崩盘",
+     "2022 年 11 月，Alameda 资产负债表曝光引发挤兑，查出约 80 亿美元客户资金窟窿，申请破产"
+    ],
+    [
+     "结局",
+     "SBF 被判 25 年；交易所进入破产清算，债权人后续获赔付安排"
+    ]
+   ],
+   "id": "ftx",
+   "related": [
+    "alameda-research",
+    "the-altruists",
+    "sam-bankman-fried",
+    "gary-wang",
+    "modulo-capital"
+   ],
+   "sources": [
+    [
+     "MIT Sloan 案例：Sam Bankman-Fried and FTX",
+     "https://mitsloan.mit.edu/sites/default/files/2024-06/Sam%20Bankman-Fried's%20FTX.pdf"
+    ]
+   ],
+   "summary": "2019 年由 SBF 与 Gary Wang 创立的加密货币衍生品交易所，一度全球第二、估值 320 亿美元，2022 年 11 月因挪用客户资金破产，是币圈史上最大的暴雷事件。",
+   "title": "FTX",
+   "type": "机构"
+  },
+  {
+   "aliases": [
+    "Alameda",
+    "阿拉米达"
+   ],
+   "body": [
+    "Alameda 和 FTX 从第一天起就不是两家独立公司：同一批人、同一套账户、资金混同。它在 FTX 上有一个用代码写死的特权账户，可以无限透支且不被强平——这是 Gary Wang 按 SBF 指示写进系统的，也是庭审里最硬的证据之一。"
+   ],
+   "facts": [
+    [
+     "创立",
+     "2017 年 11 月，伯克利；SBF 持股 90%，Gary Wang 持股 10%"
+    ],
+    [
+     "起家业务",
+     "跨市场套利：美国买、日本卖比特币，吃 10% 左右价差，据称头三周赚 2000 万美元"
+    ],
+    [
+     "人事地震",
+     "2018 年 4 月，联创 Tara Mac Aulay 因不满风控与做法，带约一半管理层集体离职"
+    ],
+    [
+     "历任 CEO",
+     "SBF（至 2021）→ Sam Trabucco 与 Caroline Ellison 联任 → Ellison 独任（2022）"
+    ],
+    [
+     "在案子里的角色",
+     "FTX 客户资金的实际挪用与挥霍方：交易亏损、风险投资、房产与政治捐款都从这里走"
+    ]
+   ],
+   "id": "alameda-research",
+   "related": [
+    "ftx",
+    "sam-bankman-fried",
+    "tara-mac-aulay",
+    "caroline-ellison",
+    "sam-trabucco",
+    "modulo-capital"
+   ],
+   "sources": [
+    [
+     "MIT Sloan 案例：Sam Bankman-Fried and FTX",
+     "https://mitsloan.mit.edu/sites/default/files/2024-06/Sam%20Bankman-Fried's%20FTX.pdf"
+    ],
+    [
+     "破产诉讼文件：Alameda v. Friedberg（创始人与股权记载）",
+     "https://fingfx.thomsonreuters.com/gfx/legaldocs/byvrlgdnxve/Alameda%20vs.%20Friedberg.pdf"
+    ]
+   ],
+   "summary": "2017 年 11 月 SBF 与 Tara Mac Aulay 在伯克利创立的量化交易公司，靠美日比特币价差套利起家，后来成为挪用 FTX 客户资金的通道，是整个案子的发动机。",
+   "title": "Alameda Research",
+   "type": "机构"
+  },
+  {
+   "aliases": [
+    "Modulo",
+    "模数资本"
+   ],
+   "body": [
+    "Modulo 是理解 FTX 钱流向的一块拼图：一家刚成立几个月、毫无名气的小基金，能拿到 4.75 亿美元，靠的不是业绩，而是 Jane Street 同门 + 巴哈马同社区的人脉圈。传闻称 SBF 与 Lily Zhang 有过私人关系，被认为是这笔投资的动机之一，此说未经证实。"
+   ],
+   "facts": [
+    [
+     "创立",
+     "2022 年初，巴哈马，与 FTX 核心圈同住 Albany 社区"
+    ],
+    [
+     "创始人",
+     "Duncan Rheingans-Yoo 与 Xiaoyun「Lily」Zhang，两人都是前 Jane Street 交易员（与 SBF、Ellison 同一出身）"
+    ],
+    [
+     "业务",
+     "多策略量化对冲基金，团队很小，成立时几乎没名气"
+    ],
+    [
+     "与 FTX 的关系",
+     "2022 年 Alameda 按 SBF 指示入股：2500 万美元买 20% 股份 + 4.5 亿美元投入其基金，合计 4.75 亿，是 FTX 对外最大单笔投资之一；事后查明资金部分源自 FTX 客户存款"
+    ],
+    [
+     "结局",
+     "2023 年 3 月与 FTX 破产方和解：退回 4.04 亿美元现金 + 放弃在 FTX 的 5600 万美元资产索赔，合计约 4.6 亿（约 97%）；FTX/Alameda 同时放弃对 Modulo 的股权与追责。创始人未被起诉"
+    ],
+    [
+     "在剧中",
+     "Lily Zhang 由 Marianna Phung 饰，Duncan 由 Hudson Williams 饰；剧里暗示他们想拿证据当筹码保住钱，People 指出现实中无此证据"
+    ]
+   ],
+   "id": "modulo-capital",
+   "related": [
+    "ftx",
+    "alameda-research",
+    "the-altruists"
+   ],
+   "sources": [
+    [
+     "People：剧中略去的 9 个细节（Modulo 退钱）",
+     "https://people.com/the-altruists-details-left-out-12261052"
+    ],
+    [
+     "Cointelegraph：FTX 追讨 Modulo 4.6 亿美元",
+     "https://cointelegraph.com/news/ftx-seeks-to-claw-back-460m-from-bankman-fried-backed-vc-firm"
+    ]
+   ],
+   "summary": "2022 年初在巴哈马成立的小型多策略对冲基金，两位创始人都是 Jane Street 出身。因收了 Alameda 4.75 亿美元而卷入 FTX 案，破产后几乎全额退回，是 FTX 资金外流里追回比例最高的一笔。",
+   "title": "Modulo Capital",
+   "type": "机构"
+  },
+  {
+   "aliases": [
+    "EA",
+    "Effective Altruism",
+    "有效利他主义"
+   ],
+   "body": [
+    "理解 EA 才能理解 FTX 案为什么不只是贪腐故事：SBF 的自我叙事里，冒险和越界是为了「期望值最大化」——只要最终捐出的钱够多，过程里的风险就值得。这种把一切换算成期望值的思维，既是 EA 吸引顶尖头脑的地方，也是它在这起案子里被反噬的地方。",
+    "规模判断记住四个字：小而重。人不多，但钱、岗位和政策影响力都卡在关键节点上，尤其在 AI 安全领域。"
+   ],
+   "facts": [
+    [
+     "源头",
+     "彼得·辛格的思想为源，Toby Ord、William MacAskill 等人 2009 年前后在牛津发起"
+    ],
+    [
+     "核心主张",
+     "赚钱为了捐钱（earn to give）：去高收入岗位，把大部分收入捐给性价比最高的慈善用途"
+    ],
+    [
+     "核心机构",
+     "CEA（社群中枢）、Giving What We Can（宣誓捐 10% 收入）、80,000 Hours（职业规划）、GiveWell（慈善性价比评级）、Open Philanthropy（主要金主，Facebook 联创 Moskovitz 出资）"
+    ],
+    [
+     "规模",
+     "核心社群数万人量级，人数不大；但承诺捐赠达百亿美元级，且大量成员进入 AI 实验室的安全与政策团队，位置很重"
+    ],
+    [
+     "与 FTX 的关系",
+     "SBF 是 EA「赚钱为了捐钱」最出名的样板，FTX 基金会一度是 EA 大金主；2022 年事发后整个社群被拖下水，至今仍在与他切割"
+    ]
+   ],
+   "id": "effective-altruism",
+   "related": [
+    "the-altruists",
+    "sam-bankman-fried",
+    "caroline-ellison",
+    "tara-mac-aulay"
+   ],
+   "sources": [],
+   "summary": "一套源自牛津哲学圈的慈善与职业伦理：做好事也要算账，用证据和理性找出一块钱能换回最多好处的用法。SBF 与 Ellison 都是它的信徒，FTX 剧名《利他主义者》即出于此。",
+   "title": "有效利他主义（EA）",
+   "type": "思潮"
+  },
+  {
+   "aliases": [
+    "SBF",
+    "Sam Bankman-Fried"
+   ],
+   "facts": [
+    [
+     "履历",
+     "Jane Street ETF 交易员 → 2017 创 Alameda → 2019 创 FTX"
+    ],
+    [
+     "定罪",
+     "2023 年欺诈等罪名成立，2024 年 3 月判 25 年、没收约 110 亿美元"
+    ],
+    [
+     "在剧中",
+     "Anthony Boyle 饰演"
+    ]
+   ],
+   "id": "sam-bankman-fried",
+   "photo": "https://img.yatslist.com/cryptostory/people/sam-bankman-fried.jpg",
+   "related": [
+    "ftx",
+    "alameda-research",
+    "effective-altruism",
+    "the-altruists"
+   ],
+   "sources": [],
+   "summary": "Alameda 与 FTX 的主创，两家公司的实际控制人。斯坦福法学教授之子，MIT 物理系毕业，原 Jane Street 交易员。2024 年被判 25 年，正在服刑。",
+   "title": "Sam Bankman-Fried（SBF）",
+   "type": "人物"
+  },
+  {
+   "aliases": [
+    "Gary Wang",
+    "王紫霄",
+    "Zixiao Wang"
+   ],
+   "facts": [
+    [
+     "角色",
+     "Alameda 早期 CTO、FTX 联合创始人兼 CTO"
+    ],
+    [
+     "定罪",
+     "2022 年 12 月认罪并出庭指证 SBF，2024 年 11 月判已服刑期 + 3 年监管释放"
+    ],
+    [
+     "在剧中",
+     "Eugene Young 饰演"
+    ]
+   ],
+   "id": "gary-wang",
+   "photo": "https://img.yatslist.com/cryptostory/people/gary-wang.jpg",
+   "related": [
+    "ftx",
+    "alameda-research",
+    "sam-bankman-fried"
+   ],
+   "sources": [],
+   "summary": "FTX 联创兼 CTO，SBF 的 MIT 室友，前 Google 工程师，Alameda 持股 10% 的股东。亲手写了 Alameda 特权账户的代码，认罪合作后免再坐牢。",
+   "title": "Gary Wang（王紫霄）",
+   "type": "人物"
+  },
+  {
+   "aliases": [
+    "Tara Mac Aulay",
+    "塔拉·麦考利"
+   ],
+   "facts": [
+    [
+     "角色",
+     "Alameda 联合创始人（2017），EA 圈人脉的引入者"
+    ],
+    [
+     "离职",
+     "2018 年 4 月与多名高管集体辞职，带走大量资本"
+    ]
+   ],
+   "id": "tara-mac-aulay",
+   "photo": "https://img.yatslist.com/cryptostory/people/tara-mac-aulay.jpg",
+   "related": [
+    "alameda-research",
+    "effective-altruism"
+   ],
+   "sources": [],
+   "summary": "Alameda 联合创始人，澳大利亚数学家，当时是 EA 机构 CEA 的负责人。2018 年因不满 SBF 的风控与做法带半个管理层离职，是核心圈里最早抽身、且未被起诉的人。",
+   "title": "Tara Mac Aulay",
+   "type": "人物"
+  },
+  {
+   "aliases": [
+    "Caroline Ellison",
+    "卡罗琳·埃里森"
+   ],
+   "facts": [
+    [
+     "角色",
+     "Alameda CEO（2021–2022）"
+    ],
+    [
+     "定罪",
+     "2022 年 12 月认罪，2024 年 9 月判 2 年、没收约 110 亿美元"
+    ],
+    [
+     "在剧中",
+     "Julia Garner 饰演"
+    ],
+    [
+     "现状",
+     "2026 年 1 月 21 日出狱；2026 年 7 月起加入慈善募资平台 Manifund（EA 背景、曾受 FTX Future Fund 支持），做平台开发与捐赠效率研究，创始人 Austin Chen 于 2026 年 9 月对外宣布；仍处 3 年监管释放期，10 年内不得任上市公司高管或董事"
+    ]
+   ],
+   "id": "caroline-ellison",
+   "media": [
+    [
+     "存档视频：Caroline Ellison 受访片段（unusual_whales 2022-12-10 推文视频，38 秒）",
+     "https://img.yatslist.com/cryptostory/x-1601772005526740993.mp4"
+    ]
+   ],
+   "photo": "https://img.yatslist.com/cryptostory/people/caroline-ellison.jpg",
+   "related": [
+    "alameda-research",
+    "effective-altruism",
+    "the-altruists",
+    "sam-bankman-fried"
+   ],
+   "sources": [
+    [
+     "EW：SBF 与 Ellison 现在何处（含 Manifund 去向）",
+     "https://ew.com/sam-bankman-fried-caroline-ellison-where-are-they-now-12263265"
+    ]
+   ],
+   "summary": "2018 年从 Jane Street 加入 Alameda，2021 年起任 CEO，SBF 的前女友。挪用资金的实际操盘手，认罪并指证 SBF，判 2 年，服约 14 个月后于 2026 年 1 月出狱，现已加入 EA 圈的慈善募资平台 Manifund 工作。",
+   "title": "Caroline Ellison",
+   "type": "人物"
+  },
+  {
+   "aliases": [
+    "Nishad Singh"
+   ],
+   "facts": [
+    [
+     "角色",
+     "FTX 工程负责人（Director of Engineering）"
+    ],
+    [
+     "定罪",
+     "2023 年 2 月认罪，2024 年 10 月判已服刑期 + 3 年监管释放"
+    ],
+    [
+     "在剧中",
+     "Karan Soni 饰演"
+    ]
+   ],
+   "id": "nishad-singh",
+   "photo": "https://img.yatslist.com/cryptostory/people/nishad-singh.jpg",
+   "related": [
+    "ftx",
+    "sam-bankman-fried"
+   ],
+   "sources": [],
+   "summary": "2017 年底加入 Alameda，后任 FTX 工程负责人，管工程与部分政治捐款通道。认罪合作，判已服刑期免再坐牢。",
+   "title": "Nishad Singh",
+   "type": "人物"
+  },
+  {
+   "aliases": [
+    "Sam Trabucco"
+   ],
+   "facts": [
+    [
+     "角色",
+     "Alameda 联席 CEO（2021–2022 年 8 月）"
+    ],
+    [
+     "在剧中",
+     "Alex Lawther 饰演"
+    ]
+   ],
+   "id": "sam-trabucco",
+   "photo": "https://img.yatslist.com/cryptostory/people/sam-trabucco.jpg",
+   "related": [
+    "alameda-research",
+    "caroline-ellison"
+   ],
+   "sources": [],
+   "summary": "2019 年加入 Alameda 的交易员，2021 年与 Ellison 联任 CEO，2022 年 8 月、崩盘前三个月辞职。至今未被起诉，是核心圈里全身而退的那个。",
+   "title": "Sam Trabucco",
+   "type": "人物"
+  },
+  {
+   "aliases": [
+    "Ryan Salame"
+   ],
+   "facts": [
+    [
+     "角色",
+     "FTX Digital Markets 联席 CEO"
+    ],
+    [
+     "定罪",
+     "2023 年 9 月就竞选财务与无牌汇款认罪，2024 年 5 月判 7.5 年"
+    ],
+    [
+     "在剧中",
+     "Matt Rife 饰演"
+    ]
+   ],
+   "id": "ryan-salame",
+   "photo": "https://img.yatslist.com/cryptostory/people/ryan-salame.jpg",
+   "related": [
+    "ftx",
+    "sam-bankman-fried"
+   ],
+   "sources": [],
+   "summary": "2019 年加入，后任 FTX 巴哈马子公司 FTX Digital Markets 联席 CEO，管政治捐款与对外场面。他没有合作指证，判 7.5 年，是高管里坐牢最重的一档（SBF 除外）。",
+   "title": "Ryan Salame",
+   "type": "人物"
+  }
+ ],
+ "name": "Crypto Story Club · 币圈知识库",
+ "updated": "2026-11-22",
+ "version": "0.1"
+}
