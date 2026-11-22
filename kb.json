@@ -51,7 +51,9 @@
     "the-altruists-s01e05",
     "the-altruists-s01e06",
     "the-altruists-s01e07",
-    "the-altruists-s01e08"
+    "the-altruists-s01e08",
+    "changpeng-zhao",
+    "freedom-of-money"
    ],
    "sources": [
     [
@@ -108,7 +110,9 @@
     "the-altruists",
     "sam-bankman-fried",
     "gary-wang",
-    "modulo-capital"
+    "modulo-capital",
+    "changpeng-zhao",
+    "freedom-of-money"
    ],
    "sources": [
     [
@@ -297,7 +301,9 @@
     "ftx",
     "alameda-research",
     "effective-altruism",
-    "the-altruists"
+    "the-altruists",
+    "changpeng-zhao",
+    "freedom-of-money"
    ],
    "sources": [],
    "summary": "Alameda 与 FTX 的主创，两家公司的实际控制人。斯坦福法学教授之子，MIT 物理系毕业，原 Jane Street 交易员。2024 年被判 25 年，正在服刑。",
@@ -923,6 +929,123 @@
     [
      "Forever Dreaming 台词本",
      "https://transcripts.foreverdreaming.org/viewtopic.php?p=385350"
+    ]
+   ]
+  },
+  {
+   "id": "changpeng-zhao",
+   "type": "人物",
+   "title": "赵长鹏 CZ",
+   "aliases": [
+    "CZ",
+    "Changpeng Zhao",
+    "币安创始人"
+   ],
+   "summary": "币安创始人，FTX 崩盘周的另一位主角：2019 年币安曾入股 FTX 约两成，2022 年 11 月 6 日他宣布抛售 FTT 的推文点燃了挤兑；三天后他又以收购意向书短暂成为 FTX 最后的救命稻草，再亲手放开。2023 年在美认罪、2024 年服刑四个月，2025 年获赦免，2026 年出版回忆录《币安人生》。",
+   "body": [
+    "CZ 与 SBF 的关系分三段：先是投资人（2019 年币安以 BNB 换 FTT 入股 FTX 约 20%，2021 年 FTX 以约 17.6 亿美元回购这笔股份，两人就此结怨）；再是竞争对手（他指控 SBF 挖走币安 VIP 客户经理、在华盛顿游说打压币安）；最后是 2022 年 11 月的「救火队员」，他对这个角色的自述是：我不想要 FTX，也不想帮 SBF，但为了保护用户和行业不得不介入。",
+    "他自己的法律结局与 SBF 不同：2023 年 11 月就违反《银行保密法》认罪，币安向美国各机构合计支付约 72 亿美元和解，他辞去 CEO 并服刑四个月（2024 年，加州 Lompoc），2025 年 10 月获总统赦免。同为创始人、同为被告，一个 25 年、一个 4 个月，差别在于罪名是欺诈还是合规缺失，这也是理解两人叙事分歧的底色。",
+    "2026 年 4 月他出版回忆录《Freedom of Money》（中文版《币安人生》），其中第 9、10、22 章是 FTX 事件的 CZ 版本，与本库《利他主义者》剧版和 SBF 狱中自述构成三方对照，详见该书条目。"
+   ],
+   "facts": [
+    [
+     "出生",
+     "1977 年生于江苏连云港，12 岁随家人移民加拿大"
+    ],
+    [
+     "创业",
+     "2017 年创办币安，约 180 天做到全球最大加密交易所"
+    ],
+    [
+     "与 FTX",
+     "2019 年入股约 20%；2021 年被约 17.6 亿美元回购退出；2022-11-06 发推抛售 FTT；11-08 签收购意向书、11-09 放弃"
+    ],
+    [
+     "法律结局",
+     "2023 年认罪（银行保密法），币安合计和解约 72 亿美元；2024 年服刑 4 个月；2025 年获赦免"
+    ],
+    [
+     "现状",
+     "居阿布扎比，经 YZi Labs 投资，办免费教育项目 Giggle Academy；2026 年出版回忆录《币安人生》"
+    ]
+   ],
+   "related": [
+    "freedom-of-money",
+    "ftx",
+    "sam-bankman-fried",
+    "the-altruists"
+   ],
+   "sources": [
+    [
+     "Wikipedia：Freedom of Money",
+     "https://en.wikipedia.org/wiki/Freedom_of_Money:_A_Memoir_of_Protecting_Users,_Resilience,_and_the_Founding_of_Binance"
+    ],
+    [
+     "tianpan：《币安人生》逐章解读",
+     "https://tianpan.co/zh/blog/2026/04/11/cz-freedom-of-money-chapter-by-chapter"
+    ]
+   ]
+  },
+  {
+   "id": "freedom-of-money",
+   "type": "作品",
+   "title": "《币安人生》Freedom of Money",
+   "aliases": [
+    "Freedom of Money",
+    "币安人生",
+    "CZ 回忆录",
+    "CZ 自传"
+   ],
+   "summary": "CZ 的回忆录，2026 年 4 月 8 日自费出版，英文版与繁体中文版《币安人生》，364 页、25 章加附录。初稿大部分是他 2024 年在美国联邦监狱里用公用电脑、每次 15 分钟一段段敲出来的，版税全数捐给慈善。第 9、10、22 章是 FTX 事件的 CZ 版本，是与《利他主义者》和 SBF 自述对照读的第一手材料。",
+   "body": [
+    "全书结构：前四章写江苏童年、移民加拿大与卖房全仓比特币；第 5 至 8 章写币安 180 天登顶与生态扩张；第 9 至 12 章是风暴部分，Terra 连环崩盘、FTX 事件、美国司法部调查与等待宣判；第 13 至 17 章写服刑、出狱与「币安没有我」；最后是理念章与行业人物章，第 22 章点名徐明星、张健与 SBF，出版当周即引发徐明星在 X 上反击。何一为本书作序，Larry Fink 与 Ray Dalio 写了推荐语。",
+    "【与剧版 / SBF 版的 FTX 对照】三方一致的事实底盘：时间线（11 月 6 日 CZ 发推抛售 FTT、8 日签意向书、9 日放弃、11 日 FTX 破产）、72 小时流出约 60 亿美元、客户资金窟窿真实存在。",
+    "分歧一，那条推文的性质。CZ 在书中说这是 CoinDesk 曝光 Alameda 资产负债表之后的风险处置，是防御；SBF 一方与剧版第 7 集的呈现则是竞争对手的致命一击，Sam 挨个打电话求救时，这条推特成了压垮挤兑的最后一根稻草。",
+    "分歧二，收购意向书是不是真收购。CZ 明说不是真买，目的是稳定市场信心、给用户争取提款时间；SBF 一方的叙事里，币安先给希望再抽身，等于当众宣判 FTX 死刑。",
+    "分歧三，恩怨的起点。CZ 说 2019 年入股完成后 SBF 立刻变脸，以 5 倍薪资挖走币安的 VIP 客户经理并带走客户资料，又在华盛顿批评币安、把 FTX 包装成「合规替代品」；剧版几乎没有拍这段前史，CZ 在剧里基本只是画外的推特和抛售。书中还指控 SBF 用政治捐款与和 SEC 前主席 Gensler 的关系推动对币安不利的监管，此为 CZ 单方口径，未经证实。",
+    "分歧四，Ellison 那条「愿以 22 美元接盘 FTT」的推文。CZ 称之为致命失误，等于向全市场亮出 Alameda 的底牌价；SBF 阵营则视其为正常防御动作。",
+    "读法提醒：本条目的对照基于该书的公开逐章解读与媒体摘要整理，非原书全文。回忆录天然带自我辩护，CZ 版本与 SBF 版本都应按「当事人自述」打折看待；三方都承认的事实底盘，才是可靠的部分。"
+   ],
+   "facts": [
+    [
+     "出版",
+     "2026-04-08，自费出版；英文版与繁体中文版《币安人生》，364 页"
+    ],
+    [
+     "结构",
+     "25 章 + 附录《72 条人生原则》；何一作序"
+    ],
+    [
+     "写作",
+     "初稿大部分写于 2024 年服刑期间，监狱公用电脑每次限用 15 分钟"
+    ],
+    [
+     "版税",
+     "全部捐给慈善（含其教育项目 Giggle Academy）"
+    ],
+    [
+     "FTX 内容",
+     "第 9 章风暴前夜、第 10 章 FTX 与 SBF、第 22 章行业人物"
+    ]
+   ],
+   "related": [
+    "changpeng-zhao",
+    "ftx",
+    "the-altruists",
+    "sam-bankman-fried"
+   ],
+   "sources": [
+    [
+     "Wikipedia：Freedom of Money",
+     "https://en.wikipedia.org/wiki/Freedom_of_Money:_A_Memoir_of_Protecting_Users,_Resilience,_and_the_Founding_of_Binance"
+    ],
+    [
+     "Odaily：CZ 新书十大揭秘",
+     "https://www.odaily.news/en/post/5210148"
+    ],
+    [
+     "tianpan：《币安人生》逐章解读",
+     "https://tianpan.co/zh/blog/2026/04/11/cz-freedom-of-money-chapter-by-chapter"
     ]
    ]
   }
