@@ -43,7 +43,15 @@
     "alameda-research",
     "effective-altruism",
     "sam-bankman-fried",
-    "caroline-ellison"
+    "caroline-ellison",
+    "the-altruists-s01e01",
+    "the-altruists-s01e02",
+    "the-altruists-s01e03",
+    "the-altruists-s01e04",
+    "the-altruists-s01e05",
+    "the-altruists-s01e06",
+    "the-altruists-s01e07",
+    "the-altruists-s01e08"
    ],
    "sources": [
     [
@@ -256,7 +264,8 @@
     "the-altruists",
     "sam-bankman-fried",
     "caroline-ellison",
-    "tara-mac-aulay"
+    "tara-mac-aulay",
+    "will-macaskill"
    ],
    "sources": [],
    "summary": "一套源自牛津哲学圈的慈善与职业伦理：做好事也要算账，用证据和理性找出一块钱能换回最多好处的用法。SBF 与 Ellison 都是它的信徒，FTX 剧名《利他主义者》即出于此。",
@@ -340,6 +349,14 @@
     [
      "离职",
      "2018 年 4 月与多名高管集体辞职，带走大量资本"
+    ],
+    [
+     "在剧中",
+     "Greta Carew-Johns 饰演，出镜 2 集；名场面是与 SBF、Ellison 争论「all in 是否数学最优」，她回了一句：聪明，但不明智（smart, not wise）"
+    ],
+    [
+     "关键作用",
+     "她的离职是 FTX 故事的第一个转折点：内部制衡从此消失"
     ]
    ],
    "id": "tara-mac-aulay",
@@ -349,7 +366,7 @@
     "effective-altruism"
    ],
    "sources": [],
-   "summary": "Alameda 联合创始人，澳大利亚数学家，当时是 EA 机构 CEA 的负责人。2018 年因不满 SBF 的风控与做法带半个管理层离职，是核心圈里最早抽身、且未被起诉的人。",
+   "summary": "Alameda 联合创始人，EA 运动的核心人物，与 Will MacAskill 共同创办 CEA（有效利他主义中心）并任 CEO。她是把 SBF 带进「赚钱捐钱」实践的人，也是 Alameda 内部唯一的刹车：管风控、讲规矩。2018 年因不满 SBF 的风控与做法带半个管理层离职，她一走，内部再没人能拦住 SBF。未被起诉。",
    "title": "Tara Mac Aulay",
    "type": "人物"
   },
@@ -482,6 +499,432 @@
    "summary": "2019 年加入，后任 FTX 巴哈马子公司 FTX Digital Markets 联席 CEO，管政治捐款与对外场面。他没有合作指证，判 7.5 年，是高管里坐牢最重的一档（SBF 除外）。",
    "title": "Ryan Salame",
    "type": "人物"
+  },
+  {
+   "aliases": [
+    "William MacAskill",
+    "威尔·麦卡斯基尔"
+   ],
+   "facts": [
+    [
+     "身份",
+     "牛津大学哲学教授，EA 运动共同发起人"
+    ],
+    [
+     "著作",
+     "《Doing Good Better》（2015）、《What We Owe the Future》（2022）"
+    ],
+    [
+     "与 FTX 的关系",
+     "SBF 是他最出名的「赚钱为了捐钱」追随者；FTX 崩盘后他公开谴责 SBF，并承认自己早年曾对其风险做法有过担忧但没能阻止"
+    ],
+    [
+     "在剧中",
+     "苏格兰演员 Jack Greenlees 饰演，仅出镜 1 集；官方剧照几乎没有他，属于一闪而过的定调角色"
+    ]
+   ],
+   "id": "will-macaskill",
+   "photo": "https://img.yatslist.com/cryptostory/people/will-macaskill.jpg",
+   "related": [
+    "effective-altruism",
+    "tara-mac-aulay",
+    "sam-bankman-fried"
+   ],
+   "sources": [],
+   "summary": "苏格兰哲学家，牛津大学教授，有效利他主义（EA）的共同发起人：2009 年与 Toby Ord 创办 Giving What We Can，后共同创办 CEA 与 80,000 Hours。他是 EA 的思想领袖，也是把 SBF 带进这个圈子的关键人物之一。",
+   "title": "Will MacAskill",
+   "type": "人物"
+  },
+  {
+   "id": "the-altruists-s01e01",
+   "type": "剧集",
+   "title": "《利他主义者》第 1 集：Inappropriate Relationships",
+   "aliases": [
+    "The Altruists S01E01",
+    "不当关系",
+    "利他主义者第1集"
+   ],
+   "summary": "双线开场：2022 年崩盘与逮捕前夜，倒叙回 2016 年 Jane Street，Sam 与 Caroline 因数学与有效利他主义结缘；Tara Mac Aulay 出场宣讲 EA，为 Sam 的加密基金背书募资。",
+   "body": [
+    "第一集结尾是全剧的原点事件：Sam 要用十倍杠杆全仓押注新交易系统，身为交易主管的 Tara 否决，Caroline 却算出「15% 概率赚 2000 万、10% 概率全亏，全仓是数学最优」，Tara 回她「聪明，但不明智」。随后爆出 Sam 趁 Tara 不在，把 Alameda 的注册文件全签了自己一个人的名字，还称是「帮她一个忙」。Tara 骂他是骗子、扬言带走工程师与投资人，Caroline 却站到 Sam 一边，Sam 按下全仓键。",
+    "这一集把全剧的主题一次立完：期望值思维如何一步步压过风控与信任。Tara 是全剧唯一在一切还来得及的时候说「不」的人，她的退出也是后来所有灾难的第一块多米诺骨牌。"
+   ],
+   "facts": [
+    [
+     "集数",
+     "第 1 集 / 共 8 集"
+    ],
+    [
+     "英文集名",
+     "Inappropriate Relationships"
+    ],
+    [
+     "中文集名",
+     "不当关系"
+    ],
+    [
+     "主要出场",
+     "Sam、Caroline、Tara、Trabucco"
+    ],
+    [
+     "台词档案",
+     "本地留存全文 4,957 行（Forever Dreaming 台词本，不公开）"
+    ]
+   ],
+   "related": [
+    "the-altruists",
+    "sam-bankman-fried",
+    "caroline-ellison",
+    "tara-mac-aulay"
+   ],
+   "sources": [
+    [
+     "Forever Dreaming 台词本",
+     "https://transcripts.foreverdreaming.org/viewtopic.php?p=385343"
+    ]
+   ]
+  },
+  {
+   "id": "the-altruists-s01e02",
+   "type": "剧集",
+   "title": "《利他主义者》第 2 集：7 Versions of the Truth",
+   "aliases": [
+    "The Altruists S01E02",
+    "真相的七个版本",
+    "利他主义者第2集"
+   ],
+   "summary": "2018 年伯克利，Alameda 运转起来，Sam 与 Caroline 约定公司优先于两人的关系；Tara 事件的余波扩散，EA 圈子开始集体不信任 Sam。2022 线，记者 Hannah 开始追查 FTX 资产负债表上的疑点。",
+   "body": [
+    "这一集讲「版本」：同一件事，Sam 对 Caroline、对团队、对投资人各说一套。Caroline 逼 Sam 发誓不会对自己重演 Tara 的事，Sam 答应了，还补一句「她跟不上，不是我的错」。",
+    "记者线在本集正式启动，Hannah 的追查将成为 2022 线的倒计时。"
+   ],
+   "facts": [
+    [
+     "集数",
+     "第 2 集 / 共 8 集"
+    ],
+    [
+     "英文集名",
+     "7 Versions of the Truth"
+    ],
+    [
+     "中文集名",
+     "真相的七个版本"
+    ],
+    [
+     "主要出场",
+     "Sam、Caroline、Hannah、Nishad、Claire"
+    ],
+    [
+     "台词档案",
+     "本地留存全文 4,285 行（Forever Dreaming 台词本，不公开）"
+    ]
+   ],
+   "related": [
+    "the-altruists",
+    "sam-bankman-fried",
+    "caroline-ellison",
+    "tara-mac-aulay"
+   ],
+   "sources": [
+    [
+     "Forever Dreaming 台词本",
+     "https://transcripts.foreverdreaming.org/viewtopic.php?p=385344"
+    ]
+   ]
+  },
+  {
+   "id": "the-altruists-s01e03",
+   "type": "剧集",
+   "title": "《利他主义者》第 3 集：Words with Friends",
+   "aliases": [
+    "The Altruists S01E03",
+    "与友之言",
+    "利他主义者第3集"
+   ],
+   "summary": "团队成形：Nishad、Claire、Ryan、Constance 等人陆续加入，众人迁往香港筹建 FTX；核心程序员被 CZ 挖走，Sam 亲自去见投资人碰壁，回来却撒谎说融资已经谈妥。2022 线，Nishad 发现账上 80 亿美元窟窿，与 Sam 对质。",
+   "body": [
+    "Sam 的第一个公开谎言出现在这一集：不是对敌人，是对自己团队。Caroline 察觉不对却被推开，她与 Sam 的关系从合伙人开始滑向共谋。",
+    "Nishad 是核心圈里第一个直视窟窿的人，他与 Sam 的对质是 2022 线的第一个爆点。"
+   ],
+   "facts": [
+    [
+     "集数",
+     "第 3 集 / 共 8 集"
+    ],
+    [
+     "英文集名",
+     "Words with Friends"
+    ],
+    [
+     "中文集名",
+     "与友之言"
+    ],
+    [
+     "主要出场",
+     "Sam、Nishad、Caroline、Ryan、Trabucco"
+    ],
+    [
+     "台词档案",
+     "本地留存全文 4,267 行（Forever Dreaming 台词本，不公开）"
+    ]
+   ],
+   "related": [
+    "the-altruists",
+    "sam-bankman-fried",
+    "nishad-singh",
+    "caroline-ellison"
+   ],
+   "sources": [
+    [
+     "Forever Dreaming 台词本",
+     "https://transcripts.foreverdreaming.org/viewtopic.php?p=385345"
+    ]
+   ]
+  },
+  {
+   "id": "the-altruists-s01e04",
+   "type": "剧集",
+   "title": "《利他主义者》第 4 集：Good Guys",
+   "aliases": [
+    "The Altruists S01E04",
+    "好人",
+    "利他主义者第4集"
+   ],
+   "summary": "Sam 到香港争取偶像 Will MacAskill 与 EA 共同体的背书；Will 在茶餐厅当面用 Tara 的版本质问他，并转述 Tara 对「同时拥有交易所与对冲基金」的利益冲突警告。集尾 Sam 来电忏悔。2022 线，记者将 Caroline 置于显微镜下，CZ 开始抛售 FTT。",
+   "body": [
+    "Will 的质问点中要害：如果接受 FTX 的钱，日后一旦爆出撒谎或老鼠仓，整个 EA 运动的声誉都会陪葬。Sam 的辩护是功利主义式的：为行善而撒谎，错的只是被抓的风险。",
+    "集尾的忏悔电话是 Sam 全剧罕见的真话时刻：他承认对 Tara 是明知故犯，说服自己「必须偷走公司才能拯救使命」，并托 Will 转达一句对不起。"
+   ],
+   "facts": [
+    [
+     "集数",
+     "第 4 集 / 共 8 集"
+    ],
+    [
+     "英文集名",
+     "Good Guys"
+    ],
+    [
+     "中文集名",
+     "好人"
+    ],
+    [
+     "主要出场",
+     "Sam、Will MacAskill、Caroline、Ryan"
+    ],
+    [
+     "台词档案",
+     "本地留存全文 4,074 行（Forever Dreaming 台词本，不公开）"
+    ]
+   ],
+   "related": [
+    "the-altruists",
+    "sam-bankman-fried",
+    "will-macaskill",
+    "tara-mac-aulay"
+   ],
+   "sources": [
+    [
+     "Forever Dreaming 台词本",
+     "https://transcripts.foreverdreaming.org/viewtopic.php?p=385346"
+    ]
+   ]
+  },
+  {
+   "id": "the-altruists-s01e05",
+   "type": "剧集",
+   "title": "《利他主义者》第 5 集：Game Nights",
+   "aliases": [
+    "The Altruists S01E05",
+    "游戏之夜",
+    "利他主义者第5集"
+   ],
+   "summary": "巴哈马帝国日常：每周的公司游戏之夜是这个小圈子的社交黏合剂，Sam 的父亲 Joe 深度介入公司事务。表面最风光的时期，关系与账目的裂缝都在同步加深。",
+   "body": [
+    "这一集用最松弛的日常拍最危险的状态：一群二十多岁的人住在一起、玩在一起、用游戏里的输赢逻辑处理真实世界里几十亿美元的风险。",
+    "Joe 的戏份在本集明显加重，父亲从旁观者变成共谋结构的一部分，为终局的家庭线埋伏笔。"
+   ],
+   "facts": [
+    [
+     "集数",
+     "第 5 集 / 共 8 集"
+    ],
+    [
+     "英文集名",
+     "Game Nights"
+    ],
+    [
+     "中文集名",
+     "游戏之夜"
+    ],
+    [
+     "主要出场",
+     "Sam、Caroline、Joe（父亲）、Constance"
+    ],
+    [
+     "台词档案",
+     "本地留存全文 3,881 行（Forever Dreaming 台词本，不公开）"
+    ]
+   ],
+   "related": [
+    "the-altruists",
+    "sam-bankman-fried",
+    "caroline-ellison"
+   ],
+   "sources": [
+    [
+     "Forever Dreaming 台词本",
+     "https://transcripts.foreverdreaming.org/viewtopic.php?p=385347"
+    ]
+   ]
+  },
+  {
+   "id": "the-altruists-s01e06",
+   "type": "剧集",
+   "title": "《利他主义者》第 6 集：The Duck",
+   "aliases": [
+    "The Altruists S01E06",
+    "鸭子",
+    "利他主义者第6集"
+   ],
+   "summary": "以 Sam Trabucco 为主角的一集：「鸭子」是 Alameda 交易台上的内部梗，贯穿全集；镜头跟着这位交易天才在 Alameda 的日常、他与 Sam 的关系，以及他最终的辞职出走。",
+   "body": [
+    "Trabucco 是核心圈里戏份最吃重的一集（台词量全剧单集最高）。他是 Alameda 真正的交易大脑，也是最早全身而退的人：2022 年 8 月，崩盘前三个月辞职，此后从未被起诉。",
+    "这一集的潜台词是：最懂风险的人最先闻到味道。他的离开方式与 Tara 形成对照，一个被赶走，一个自己走。"
+   ],
+   "facts": [
+    [
+     "集数",
+     "第 6 集 / 共 8 集"
+    ],
+    [
+     "英文集名",
+     "The Duck"
+    ],
+    [
+     "中文集名",
+     "鸭子"
+    ],
+    [
+     "主要出场",
+     "Trabucco、Sam、Caroline"
+    ],
+    [
+     "台词档案",
+     "本地留存全文 4,582 行（Forever Dreaming 台词本，不公开）"
+    ]
+   ],
+   "related": [
+    "the-altruists",
+    "sam-trabucco",
+    "sam-bankman-fried",
+    "caroline-ellison"
+   ],
+   "sources": [
+    [
+     "Forever Dreaming 台词本",
+     "https://transcripts.foreverdreaming.org/viewtopic.php?p=385348"
+    ]
+   ]
+  },
+  {
+   "id": "the-altruists-s01e07",
+   "type": "剧集",
+   "title": "《利他主义者》第 7 集：Prisoner's Dilemma",
+   "aliases": [
+    "The Altruists S01E07",
+    "囚徒困境",
+    "利他主义者第7集"
+   ],
+   "summary": "崩盘周：记者 Hannah 在咖啡馆劝 Caroline 与检方合作、讲出真相；Sam 四处打电话求救命钱，「红杉出局了，下一个是谁」；CZ 的推特成为压垮挤兑的最后一击。核心圈每个人的囚徒困境同时成型。",
+   "body": [
+    "集名就是本集的机制：所有人都知道合作坦白对自己最有利，但谁先开口、谁能被信任，没人敢赌。Caroline 与 Hannah 的咖啡馆对峙是全剧最关键的转折戏之一。",
+    "Constance 与 Ryan 在办公室确认 CZ「完全相信和信任 FTX」推文的那场戏，是挤兑前最后的荒诞平静。"
+   ],
+   "facts": [
+    [
+     "集数",
+     "第 7 集 / 共 8 集"
+    ],
+    [
+     "英文集名",
+     "Prisoner's Dilemma"
+    ],
+    [
+     "中文集名",
+     "囚徒困境"
+    ],
+    [
+     "主要出场",
+     "Ryan、Sam、Caroline、Constance"
+    ],
+    [
+     "台词档案",
+     "本地留存全文 4,235 行（Forever Dreaming 台词本，不公开）"
+    ]
+   ],
+   "related": [
+    "the-altruists",
+    "sam-bankman-fried",
+    "caroline-ellison",
+    "ryan-salame"
+   ],
+   "sources": [
+    [
+     "Forever Dreaming 台词本",
+     "https://transcripts.foreverdreaming.org/viewtopic.php?p=385349"
+    ]
+   ]
+  },
+  {
+   "id": "the-altruists-s01e08",
+   "type": "剧集",
+   "title": "《利他主义者》第 8 集：God Mode",
+   "aliases": [
+    "The Altruists S01E08",
+    "上帝模式",
+    "利他主义者第8集"
+   ],
+   "summary": "终局：破产、被捕与审判线收束。Sam 在崩盘最后时刻把希望押在 Anthropic 股权升值上，四处打电话求援却无人接听，「钱全卡在 Anthropic 里了」；最终在父母家中被捕，故事回到第一集的开场。",
+   "body": [
+    "剧里虚构与现实在此交汇：Sam 的「Anthropic 计划」在当时救不了 FTX，那笔股权无法变现；但在现实中，它后来真的涨成了数百亿美元，成了破产清算里最值钱的资产。剧集用这个反讽给全剧收尾。",
+    "看完终局再回看第一集 Tara 的警告，全剧是一个闭环：所有灾难的种子都埋在第一集那间办公室里。"
+   ],
+   "facts": [
+    [
+     "集数",
+     "第 8 集 / 共 8 集"
+    ],
+    [
+     "英文集名",
+     "God Mode"
+    ],
+    [
+     "中文集名",
+     "上帝模式"
+    ],
+    [
+     "主要出场",
+     "Sam、Constance、Caroline、Barbara（母亲）、Gary"
+    ],
+    [
+     "台词档案",
+     "本地留存全文 4,016 行（Forever Dreaming 台词本，不公开）"
+    ]
+   ],
+   "related": [
+    "the-altruists",
+    "sam-bankman-fried",
+    "caroline-ellison",
+    "gary-wang"
+   ],
+   "sources": [
+    [
+     "Forever Dreaming 台词本",
+     "https://transcripts.foreverdreaming.org/viewtopic.php?p=385350"
+    ]
+   ]
   }
  ],
  "name": "Crypto Story Club · 币圈知识库",
